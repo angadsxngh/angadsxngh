@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id= "gif-header">
- <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="240px"  alt="gif">
+ <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="240px"  alt="gif">
 </div>
 
 
 <div id = "badges">
-  <a href= "https://www.instagram.com/angadsxngh/"><img src="https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/social-media/instagram-text-logo.png" alt="Instagram" height="50"></a>
-  <a href= "https://www.linkedin.com/in/angadsxngh/"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="LinkedIn" height="50"></a>
+  <a href= "https://www.instagram.com/angadsxngh/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" width= "110px""></a>
+  <a href= "https://www.linkedin.com/in/angadsxngh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" width="110px"></a>
 </div>
