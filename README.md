@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 <!--
 **angadsxngh/angadsxngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id= "gif-header">
+ <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="240px"  alt="gif">
+</div>
+
+
 <div id = "badges">
-  <a href= "https://www.instagram.com/angadsxngh/" img= "https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"</a>
-  <a href= "https://www.linkedin.com/in/angadsxngh/" img= "https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"</a>
+  <a href= "https://www.instagram.com/angadsxngh/"><img src="https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/social-media/instagram-text-logo.png" alt="Instagram" height="50"></a>
+  <a href= "https://www.linkedin.com/in/angadsxngh/"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="LinkedIn" height="50"></a>
 </div>
