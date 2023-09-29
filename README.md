@@ -14,19 +14,14 @@
  <!-- <p style= "font-size: 22px;">Hey there 👋</p> -->
 </div>
 
-<div id= "banner" align= "center">
-<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" height = "200px" width= "300px">
-</div>
 
----
+<h1 align= center>Hey There!</h1>
 
-#Hey there#
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, My name is Angad Singh. I am a second year computer science undergrad who has too many questions for the world  
+- I am a creative, curious and inquisitive person who wants to learn EVERYTHING!  
+- I am currently learning Data Structures and Algorithms
+- I have also started my development arc with Web Development
+- I am currently new to Open source and have a great interest in mastering in this  
+- I tend to learn and apply things fast whether it be life lessons or a syntax in a programming language  
+- For fun I like to play games or hangout with my friends!
+- You can contact me via [Mail](mailto:angadkollege@gmail.com)
