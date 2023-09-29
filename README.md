@@ -34,7 +34,7 @@ or you can also approach me via [LinkedIn](https://www.linkedin.com/in/angadsxng
 <a href="https://github.com/angadsxngh/github-readme-stats"><img alt="Angad Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=angadsxngh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/angadsxngh/github-readme-stats"><img alt="Angad Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadsxngh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <br/>
-  <p align="center"> <img src="https://www.holopin.io/api/user/board?user=mairohanhoon"> </p>
+
 
 [![An image of @angadsxngh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angadsxngh)](https://holopin.io/@angadsxngh)  
 
