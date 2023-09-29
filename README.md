@@ -25,3 +25,4 @@ Hi, My name is Angad Singh. I am a second year computer science undergrad who ha
 - I tend to learn and apply things fast whether it be life lessons or a syntax in a programming language  
 - For fun I like to play games or hangout with my friends!
 - You can contact me via [Mail](mailto:angadkollege@gmail.com)
+  or you can also approach me via [LinkedIn](https://www.linkedin.com/in/angadsxngh/)
