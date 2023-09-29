@@ -27,4 +27,15 @@ Hi, My name is Angad Singh. I am a second year computer science undergrad who ha
 - You can contact me via [Mail](mailto:angadkollege@gmail.com)  
 or you can also approach me via [LinkedIn](https://www.linkedin.com/in/angadsxngh/)
 
-[![An image of @angadsxngh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angadsxngh)](https://holopin.io/@angadsxngh)
+<p align="center">   <a> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Angad Singh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=angadsxngh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+  </p>
+   <br/>
+   <p align="center">
+<a href="https://github.com/angadsxngh/github-readme-stats"><img alt="Angad Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=angadsxngh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/angadsxngh/github-readme-stats"><img alt="Angad Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angadsxngh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+  <br/>
+  <p align="center"> <img src="https://www.holopin.io/api/user/board?user=mairohanhoon"> </p>
+
+[![An image of @angadsxngh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angadsxngh)](https://holopin.io/@angadsxngh)  
+
+
