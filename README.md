@@ -26,3 +26,5 @@ Hi, My name is Angad Singh. I am a second year computer science undergrad who ha
 - For fun I like to play games or hangout with my friends!
 - You can contact me via [Mail](mailto:angadkollege@gmail.com)  
 or you can also approach me via [LinkedIn](https://www.linkedin.com/in/angadsxngh/)
+
+[![An image of @angadsxngh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angadsxngh)](https://holopin.io/@angadsxngh)
