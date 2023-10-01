@@ -17,7 +17,8 @@
 
 <h1 align= center>Hey There!</h1>
 
-Hi, My name is Angad Singh. I am a second year computer science undergrad who has too many questions for the world  
+### Hi, My name is Angad Singh.  ###
+#### A second year computer science undergrad who has too many questions for the world  ####
 - I am a creative, curious and inquisitive person who wants to learn EVERYTHING!  
 - I am currently learning Data Structures and Algorithms
 - I have also started my development arc with Web Development
